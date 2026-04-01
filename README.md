@@ -1,4 +1,4 @@
-⚽ API de Jogadores
+# API de Jogadores
 
 API simples desenvolvida com FastAPI para gerenciar jogadores (CRUD).
 
