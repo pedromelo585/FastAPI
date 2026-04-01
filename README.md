@@ -1,10 +1,10 @@
 # API de Jogadores
 
-API simples desenvolvida com FastAPI para gerenciar jogadores (CRUD).
+API simples desenvolvida com FastAPI para gerenciar jogadores (CRUD) com as funções (GET, PUT, DELETE, POST).
 
-- GET / → lista jogadores
-- GET /get-jogador/{id} → busca por ID
-- GET /get-jogador-time?time → busca por time
-- POST /inserir-jogador/{id} → cria jogador
-- PUT /atualiza-jogador/{id} → atualiza jogador
-- DELETE /excluir-jogador/{id} → remove jogador
+
+# Bibliotecas utilizadas 
+
+- FastAPI -> Framework moderno para criação de APIs em Python.
+- Pydantic -> Biblioteca para validação e definição de dados usando classes. 
+- Typing -> Módulo padrão do Python para tipagem estática.
